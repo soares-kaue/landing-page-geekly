@@ -10,21 +10,21 @@ Landing page responsiva para a Geekly, uma plataforma fictícia voltada ao públ
 
 - **Start:** seção principal com chamada para ação ("Join Geekly and have fun!") e botão *Start Now*
 - **Mangás & HQs:** carrossel de cards com o gênero de cada obra (Shōnen, Seinen, Comédia romântica...)
-- **About:** [descreva o que tem aqui ou apague]
-- **Contact:** [descreva o que tem aqui ou apague]
+- **About:** ⚠️ *em desenvolvimento*
+- **Contact:** seção para entrar em contato com o suporte
 
 ## Funcionalidades
 
-- Menu de navegação flutuante ⚠️ *confirme se abre e fecha no celular*
+- Menu de navegação flutuante
 - Carrossel de mangás e HQs com botões de anterior e próximo
-- Botão de favoritar em cada card ⚠️ *confirme se o coração muda ao clicar*
-- Layout responsivo ⚠️ *teste no celular*
+- Botão de favoritar em cada card
+- Layout responsivo ⚠️ *em melhoria*
 
 ## Tecnologias
 
 - HTML5 semântico
 - CSS3 ([Flexbox / Grid / media queries / animações])
-- JavaScript (carrossel, menu e favoritos) ⚠️ *ajuste conforme o que o seu JS faz*
+- JavaScript (carrossel, menu e favoritos)
 
 ## Como rodar localmente
 
