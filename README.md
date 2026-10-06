@@ -2,7 +2,7 @@
 
 Landing page responsiva criada para [descreva em uma frase: empresa fictícia, loja, serviço...].
 
-🔗 **Demo:** [link do GitHub Pages](https://soares-kaue.github.io/landing-page-geekly/)
+🔗 **Demo:** https://soares-kaue.github.io/landing-page-geekly/
 
 ![Print do projeto](./img/preview.png)
 
