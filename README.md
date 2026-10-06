@@ -2,7 +2,7 @@
 
 Landing page responsiva para a Geekly, uma plataforma fictícia voltada ao público geek, com destaque para mangás e HQs.
 
-🔗 **Demo:** [[link do GitHub Pages]](https://soares-kaue.github.io/landing-page-geekly/)
+🔗 **Demo:** [[link do Geekly]](https://soares-kaue.github.io/landing-page-geekly/)
 
 ![Preview do projeto](./src/images/preview.png)
 
